@@ -1,5 +1,5 @@
 APP_ID := org.speedcrunch.SpeedCrunch
-RUNTIMES := org.kde.Sdk//5.11 org.kde.Platform//5.11
+RUNTIMES := org.kde.Sdk//5.12 org.kde.Platform//5.12
 
 BUILD := build
 DIST := dist
