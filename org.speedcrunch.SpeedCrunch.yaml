@@ -29,9 +29,7 @@ modules:
   sources:
   - type: git
     url: https://bitbucket.org/heldercorreia/speedcrunch.git
-    commit: 61461d8dc5d436f2ba2f5ca6d344595213b803b1
-  - type: patch
-    path: fix-appdata.patch
+    commit: aa1499e80414182ade8cd13ec656ae48970607f3
 
 cleanup:
 - /share/pixmaps
