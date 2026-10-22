@@ -18,3 +18,5 @@ modules:
     url: https://github.com/heldercorreia/speedcrunch.git
     tag: v1.1.0
     commit: e7ca37fbf066162cece0ecf43d4ddc6ca1eb195d
+  - type: patch
+    path: 0001-add-1.1-appstream-release.patch

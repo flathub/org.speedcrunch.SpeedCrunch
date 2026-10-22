@@ -1,0 +1,11 @@
+diff --git a/pkg/org.speedcrunch.SpeedCrunch.metainfo.xml b/pkg/org.speedcrunch.SpeedCrunch.metainfo.xml
+--- a/pkg/org.speedcrunch.SpeedCrunch.metainfo.xml
++++ b/pkg/org.speedcrunch.SpeedCrunch.metainfo.xml
+@@ -490,6 +490,7 @@
+   <url type="help">https://speedcrunch.org/contents.html</url>
+ 
+   <releases>
++    <release version="1.1" date="2026-10-20"/>
+     <release version="1.0" date="2026-03-08"/>
+     <release version="0.12" date="2016-11-29"/>
+     <release version="0.11" date="2014-01-30"/>
